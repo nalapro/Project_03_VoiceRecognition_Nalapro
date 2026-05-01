@@ -26,6 +26,7 @@
 - whisper-small
 - whisper-small LoRA fine tuning
 - wav2vec base960h
+- whisper-small DoRa fine tuning
 
 # Struktur Folder
 ## Document
